@@ -60,4 +60,4 @@ Bar plots and heatmaps used to explore dataset and model performance.
 
 ## 📬 Contact
 
-For questions, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For questions, feel free to reach out at [spsingh2003.sps@gmail.com](mailto:your-email@example.com).
